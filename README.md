@@ -1,2 +1,2 @@
 # cs234
-CS234: Reinforcement Learning @Stanford, 2016
+Assignments for [CS234: Deep Reinforcement Learning](cs234.stanford.edu) @Stanford University
